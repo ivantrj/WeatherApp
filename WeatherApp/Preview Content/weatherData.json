@@ -1,0 +1,44 @@
+{
+    "coord":{
+        "lon":19.0399,
+        "lat":47.498
+    },
+    "weather":[
+        {
+            "id":800,
+            "main":"Clear",
+            "description":"clear sky",
+            "icon":"01n"
+        }
+    ],
+    "base":"stations",
+    "main":{
+        "temp":0.26,
+        "feels_like":0.26,
+        "temp_min":0.04,
+        "temp_max":1.92,
+        "pressure":1007,
+        "humidity":85
+    },
+    "visibility":10000,
+    "wind":{
+        "speed":0.45,
+        "deg":105,
+        "gust":1.79
+    },
+    "clouds":{
+        "all":0
+    },
+    "dt":1638646389,
+    "sys":{
+        "type":2,
+        "id":2009661,
+        "country":"HU",
+        "sunrise":1638598466,
+        "sunset":1638629643
+    },
+    "timezone":3600,
+    "id":3054643,
+    "name":"Budapest",
+    "cod":200
+}
