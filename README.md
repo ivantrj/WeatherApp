@@ -1,2 +1,3 @@
 # WeatherApp
-Simple Weather App built with SwiftUI
+
+A Simple Weather App built with SwiftUI.
